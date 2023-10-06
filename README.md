@@ -1,2 +1,2 @@
-# test
-for testing purpose
+# USED TO GET IMAGES
+for GETTING IMAGE LINKS FROM GITHUN
